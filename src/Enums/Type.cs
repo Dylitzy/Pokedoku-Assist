@@ -1,0 +1,21 @@
+public enum Type
+{
+    Normal,
+    Fire,
+    Water,
+    Grass,
+    Electric,
+    Flying,
+    Rock,
+    Ground,
+    Bug,
+    Poison,
+    Fighting,
+    Psychic,
+    Dark,
+    Ghost,
+    Steel,
+    Ice,
+    Dragon,
+    Fairy
+}

@@ -1,0 +1,24 @@
+public enum Move
+{
+    Acrobatics,
+    BrickBreak,
+    CalmMind,
+    CloseCombat,
+    Crunch,
+    DazzlingGleam,
+    Earthquake,
+    Flamethrower,
+    Fly,
+    HydroPump,
+    IceBeam,
+    IcePunch,
+    Metronome,
+    Protect,
+    Psychic,
+    RazorLeaf,
+    ShadowBall,
+    SludgeBomb,
+    Surf,
+    TailSlap,
+    Thunderbolt
+}
